@@ -1,0 +1,18 @@
+# Environment variables
+.env
+.env.local
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# IDE (optional - remove if you want to share IDE settings)
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db 
