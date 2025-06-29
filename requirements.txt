@@ -1,0 +1,36 @@
+# Core dependencies for Country Information Agent
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# Hugging Face and LLM dependencies
+transformers>=4.35.0
+huggingface_hub>=0.19.0
+
+# Data handling and utilities
+json5>=0.9.14
+
+# PDF, Web, and Text Handling
+pypdf
+pymupdf
+arxiv
+wikipedia
+bs4
+unstructured
+youtube_transcript_api
+pytube
+
+# Database & Search Utilities
+duckdb
+mysql-connector-python
+SQLAlchemy
+duckduckgo_search==5.3.1b1
+
+# Validation and Expression Evaluation
+validators==0.28.1
+numexpr
+
+# Other Essentials
+requests
+python-dotenv
+ipykernel
+pandas
